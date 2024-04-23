@@ -1,4 +1,4 @@
-import 'package:camilolealev1/pages/home_page.dart';
+import 'package:camilolealev1/pages/page1.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 0, 0, 0)),
         useMaterial3: true,
       ),
-      home: HomePage(),
+      home: Page1(),
     );      
 
   }
