@@ -1,4 +1,4 @@
-import 'package:camilolealev1/widgets/profile_page.dart';
+import 'package:camilolealev1/pages/profile_page.dart';
 import 'package:flutter/material.dart';
 import 'package:tuple/tuple.dart';
 

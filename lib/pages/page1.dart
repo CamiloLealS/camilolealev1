@@ -3,7 +3,7 @@ import 'package:camilolealev1/widgets/login_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class Page1 extends StatelessWidget {
-  const Page1({Key? key}) : super(key: key);
+  Page1({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
